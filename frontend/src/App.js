@@ -7,7 +7,9 @@ import Sentence from './components/sentence.js';
 class App extends Component {
   constructor(props) {
     super(props);
+    machine_corr = sents.reduce((total, s) => total + s.machine_corr, 0)
     this.state = {
+      mach_acc: machine_corr,
       sents: sents,
       correct: 0,
       human: 0,
@@ -27,7 +29,7 @@ class App extends Component {
       this.setState({
         correct: this.state.correct + 1
       })
-      console.log(sent);f
+      console.log(sent);
     }
     child.setState({
       clicked: true
@@ -46,17 +48,21 @@ class App extends Component {
         )
     })
 
-
-
     return (
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Meta Turing Test!</h1>
         </header>
-        {components}
-        {/* <Sentence sent={sents[0]}></Sentence> */}
-        <div>{this.state.correct}</div>
+        <div className="main_container">
+          <div className="left_container">
+            {components}
+          </div>
+          <div className="info_container">
+            <div>Your correct choices: {this.state.correct}</div>
+            <div>Computer's correct choices: {this.state.mach_acc}</div>
+          </div>
+        </div>
       </div>
     );
   }

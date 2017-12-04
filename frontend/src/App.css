@@ -22,6 +22,23 @@
   font-size: large;
 }
 
+.main_container{
+  display: flex;
+  flex-direction: row;
+  height: calc(100vh - 150px);
+}
+
+.left_container {
+  width: 60%;
+  height: 100%;
+}
+
+.info_container {
+  width: 40%;
+  height: 100%;
+  border: 1px #AAA solid;
+}
+
 .Sentence {
   width: 600px;
   height: 50px;
