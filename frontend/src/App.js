@@ -7,28 +7,36 @@ class App extends Component {
   constructor(props) {
     super(props);
     const machine_corr = sents.reduce((total, s) => s.machine_corr? total + 1: total, 0)
+    let h_scores = sents.map((s, ind, sents) => {
+      s.human? false : true
+    })
     this.state = {
       mach_acc: machine_corr,
+      mach_scores: [],
       sents: sents,
+      human_scores: [],
       correct: 0,
       human: 0,
       machine: 0,
       display: false,
     }
     this.checkCorrect = this.checkCorrect.bind(this);
-    this.onDone = this.onDone.bind(this);
-    // this.handleKey = this.handleKey.bind(this);
-    // this.reset = this.reset.bind(this);
+    this.onDone       = this.onDone.bind(this);
+    this.Reset        = this.Reset.bind(this);
     // window.addEventListener('keydown', this.handleKey);
   }
 
   checkCorrect(sent, id, child) {
     // if sentence human and clicked, add to correct
-    let clicked = child.state.clicked
-    const label = sent.label
-    if (!clicked && label === "1") {
+    let {clicked} = child.state.clicked
+    const human = sent.human
+    const {correct, human_scores} = this.state
+    if (!clicked && human === "1") {
+      let x = human_scores.copy()
+      x[id] = true
       this.setState({
         correct: this.state.correct + 1
+        human_scores: this.state.human_scores
       })
       console.log(sent);
     }
@@ -38,6 +46,12 @@ class App extends Component {
   }
 
   onDone() {
+    this.setState({
+      display: 'answers',
+    })
+    console.log("hi");
+  }
+  Reset() {
     this.setState({
       display: 'answers',
     })
@@ -104,4 +118,6 @@ const InfoContainer = (props) => {
 
 }
 
+
+// for sents 1 = human
 export default App;

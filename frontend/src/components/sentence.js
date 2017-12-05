@@ -6,15 +6,19 @@ class Sentence extends Component {
     super(props)
     this.state = {
       human_correct: null,
-      mach_correct: null,
       clicked: false
     }
   }
 
   render() {
-    const sent = this.props.sent
-    const id = this.props.id
+    const {sent, id, display} = this.props
 
+    if (this.state.clicked === (sent.human === 1) && this.state.human
+  !=null) {
+      this.setState({
+        human_correct: true,
+      })
+    }
     return (
       <div
         className={"Sentence "+sent.class}
