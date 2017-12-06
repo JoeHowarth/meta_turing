@@ -1,42 +1,54 @@
+
+
 [
   {
     "text": "hi",
-    "label": "1"
+    "human": "1",
+    "machine_corr": "true"
   },
   {
-    "text": "this is another text",
-    "label": "0"
+    "text": "everyone knows they still have a trusting and skilled workforce . ",
+    "machine_corr": "true",
+    "human": "0"
   },
   {
-    "text": "hi",
-    "label": "1"
+    "text": "tipsarevic services have provided a second price stance option for the banks that was typically possible to end the sale of the nfl .",
+    "human": "0",
+    "machine_corr": "true"
   },
   {
-    "text": "this is another text",
-    "label": "0"
-  },
-  {
-    "text": "hi",
-    "label": "1"
-  },
-  {
-    "text": "this is another text",
-    "label": "0"
+    "text": "he has also made good advantage of drugs and credit .",
+    "human": "0",
+    "machine_corr": "true"
   },
   {
     "text": "hi",
-    "label": "1"
+    "human": "1",
+    "machine_corr": "true"
   },
   {
-    "text": "this is another text",
-    "label": "0"
+    "text": "we 're talking about years ago before anyone heard of asbestos having any questionable properties",
+    "human": "0",
+    "machine_corr": "true"
   },
   {
     "text": "hi",
-    "label": "1"
+    "human": "1",
+    "machine_corr": "true"
+  },
+  {
+    "text": "in addition georgia-pacific had purchased about N million shares of oil electronics construction losses and is convertible into one common share held at the earliest campeau department for a big <unk> contractor ",
+    "human": "0",
+    "machine_corr": "true"
+  },
+  {
+    "text": "hi",
+    "human": "1",
+    "machine_corr": "true"
   },
   {
     "text": "this is another text",
-    "label": "0"
+    "human": "1",
+    "machine_corr": "true"
   }
 ]
