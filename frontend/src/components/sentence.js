@@ -31,7 +31,11 @@ class Sentence extends Component {
         human_correct = false
         classes += " h_wrong"
       }
-      label += '  ' +(sent.human? 'Hu':'Ma')
+      if (sent.machine_corr ) {
+        label += '  ' +( sent.human? 'Hu':'Ma')
+      } else {
+        label += '  ' +( sent.human? 'Ma':'Hu')
+      }
     }
     if (clicked) {
       classes += " clicked"

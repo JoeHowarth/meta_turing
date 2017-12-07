@@ -75,7 +75,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Meta Turing Test!</h1>
+          <h1 className="App-title">Meta-Turing Test!</h1>
         </header>
         <div className="main_container">
           <div className="left_container">
@@ -101,7 +101,7 @@ const InfoContainer = (props) => {
   if (display === 'answers') {
     return (
       <div className="info_container">
-        <div>Your correct choices: {correct + " / " + length}</div>
+        {/* <div>Your correct choices: {correct + " / " + length}</div> */}
         <div>Computer's correct choices: {mach_acc + " / " + length}</div>
       </div>
     );
