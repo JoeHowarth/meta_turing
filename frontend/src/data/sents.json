@@ -1,54 +1,2502 @@
-
-
 [
-  {
-    "text": "hi",
-    "human": "1",
-    "machine_corr": "true"
-  },
-  {
-    "text": "everyone knows they still have a trusting and skilled workforce . ",
-    "machine_corr": "true",
-    "human": "0"
-  },
-  {
-    "text": "tipsarevic services have provided a second price stance option for the banks that was typically possible to end the sale of the nfl .",
-    "human": "0",
-    "machine_corr": "true"
-  },
-  {
-    "text": "he has also made good advantage of drugs and credit .",
-    "human": "0",
-    "machine_corr": "true"
-  },
-  {
-    "text": "hi",
-    "human": "1",
-    "machine_corr": "true"
-  },
-  {
-    "text": "we 're talking about years ago before anyone heard of asbestos having any questionable properties",
-    "human": "0",
-    "machine_corr": "true"
-  },
-  {
-    "text": "hi",
-    "human": "1",
-    "machine_corr": "true"
-  },
-  {
-    "text": "in addition georgia-pacific had purchased about N million shares of oil electronics construction losses and is convertible into one common share held at the earliest campeau department for a big <unk> contractor ",
-    "human": "0",
-    "machine_corr": "true"
-  },
-  {
-    "text": "hi",
-    "human": "1",
-    "machine_corr": "true"
-  },
-  {
-    "text": "this is another text",
-    "human": "1",
-    "machine_corr": "true"
-  }
+    {
+        "text": "the company which makes integrated circuits and other electronic parts now has about N million common shares outstanding",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "but in these many women to reveal joe support since NNNN , faith in suspicion with different sights and market levels .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "surely without leverage before those who write to heading for a calls for lots of merck to many people fight .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "but by then , the researchers analyzed data online services in foreign and medical , social direction .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "fbi crewmen were allegedly active in kandahar province , including women 's motorist and new use of those programs to <unk> their wings and less healthy for these prostitutes .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" it <unk> shakes a subpoena 's immune system and netflix / interpretations of the matter .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "by default the dollar probably will be able to hold up pretty well in coming days says <unk> <unk> a foreign-exchange adviser at credit suisse",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "according to mr. nixon 's office this is solely a <unk> trip",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the notion that he <unk> that the filmmaker has attended in the campaign .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "at wells rich ms. heller will concentrate on accounts that include philip morris 's benson & hedges cigarette brand which relies on print ads ms. heller 's specialty",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "some economists found the <unk> <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "shares of <unk> which last month warned there would be a fourth-quarter plunge closed at $ N down N cents in composite trading on the new york stock exchange",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "according to testimony in a public <unk> <unk> report handed up to the state attorney general judge o'kicki <unk> cash from lawyers <unk> favorable loans from banks and <unk> local",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "rockefeller may well have found its match in mitsubishi estate a company of long history strong government ties and sound resources",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "each N swiss franc bond convertible from jan. N N to oct. N N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "and by <unk> donations on <unk> <unk> a new <unk> line the fast-food chain is trying to push burger king works a sales pitch into its <unk> message",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "winnie died and repair , NN , from the regular south .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "is it followed by <unk> <unk> ?",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "about the week of the ni desk in \" jennifer 's <unk> , \" the world 's tallest diversity .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "but he said this does n't mean he is satisfied with the market 's big swings",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "to top off the bearish factors affecting yesterday 's trading late october weather especially in the northeast u.s. continues to be very moderate leaving heating oil futures trading lackluster",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" leading families explanation that to make things getting , again , \" said boston , who took off to combat troops in the <unk> message .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "he sold his exchange seat and wrote a bitter letter to big board chairman john j. phelan jr. in which he said the big board is too focused on machines",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the food and drug administration must clear cheaper generic .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "british powers leader joe collins was the ceremony last week to might general <unk> , switzerland , and <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "french president nicolas sarkozy has joined the number of state prisoners being overweight and for public emergency operations .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "however , while some politicians typically have each pledged to take off tens of thousands of dollars to pay or investors with the securities but it less to scrap a",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "ted rees , one of the smithsonian victims , will retire in part , what prompted the holiday into adjacent indicated they 're <unk> to the warm free <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "only about a quarter of the respondents said they exercise to lose weight",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "she appeal he became the focusing on preferred , dubbed an organisation of her perception that be found turned out to the london chair of the environmental protection agency .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "it might be alleged that tv has done more than its share to <unk> and promote non-violent civil disobedience so the second situation <unk> above would be simply a case",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "binghamton , near issue , <unk> the <unk> hills developed by stepping products along the festival to christmas prior to life in the united states .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "dodd 's income was the N.Npc ( excluding shares for those earning NN months following the recession , and the broader mortgage market is still accurate .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "tasks had little thing , but that is not strictly true .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "similarly highway engineers agreed to keep the old <unk> on the key bridge in washington d.c. as long as they could install a crash barrier between the sidewalk and the",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "i will be the first to agree that there is much to be found wrong with modern movie making",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a trip to seattle has been investigating their assisted gifts for the european parliament , back the momentum to \" oxygen \" into their own \ufffd multi-million NN,NN in this",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "he was in schoolboy comedy <unk> and tennessee at jesus .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "that 's not plot",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "asarco inc. continuing its effort to <unk> its business ended its involvement in asbestos mining in the third quarter and said it would stop mining and selling coal by year",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "treasury bills results of the monday october N N auction of short-term u.s. government bills sold at a discount from face value in units of $ N to $ N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "after the restructuring of waertsilae marine and bolstered by state loan guarantees two big bank creditors union bank of finland and state-controlled <unk> resumed lending the shipyard working capital",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "that 's the only note that 's truly in tune",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "akzo also makes products derived from salt such as <unk> and <unk> soda",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "vision : <unk> goodness that <unk> at the beach of music corporation in springfield , florida city , jerome <unk> , plane found that such offenders had lost them outside",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "at best demonstrations are <unk> and <unk> <unk> at worst they can become the <unk> that lead to law breaking",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "whatever one thinks of the idea it 's far more than the budgetary <unk> it may seem at first <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "however , mccain is expected to repeat NN-NN percent with the european giants index a spent time through the republican presidential candidate and counting--huizenga has undergone a secret nuclear capability",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "he said that for the second month in a row food processors reported a shortage of <unk> dry milk",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "sum are be among first-year scholars .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "conclusions despite dr. sick children to head the expected stock exchange crash switch two hiv under N,NNN accounted with a record N ton and two foreign currencies hope and estimates",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" but if something else is that survive whose head compete them as they realized you are going to do take again , to provide them , then can sign",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "i think that somebody never been thinking of his career , the fact that at least we shut down .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "there is an element of <unk> involved",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "francona had claimed an inquiry of his client , who says he fears the top-ranked bear is capable of higher now .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "by repeatedly drawing the jury 's attention to the arm the defense lawyers planted doubt about the <unk> of the woman 's injuries",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "on thursday , a NNyear-old man convicted of building his optimism from redknapp comments -- president perhaps deepening temperatures that would help change in a way to step down a",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "kansas united to battling the dog guide to reveal modern ways to generate spin-offs from <unk> to keep last year 's worth to come from russia closer to the last",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "several and guests in their sponsors said they can 't comment on rumors about runaway \" whatever keep adequate and maintain energy \" a psychological \" healthy world . \"",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "moss farm and vertical programs are whether the strong phone requirements would grow a limit of almost a navigating the bank .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" it 's flare for those who who stopped coming under far to my life , so their doctor has always new since john <unk> 's expense to regain his",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "later , the arizona senator can fatah the navy .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "weisfield 's shares soared on the announcement yesterday closing up $ N to close at $ N in national over-the-counter trading",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "first the trading is done over the counter and is n't reported on either the u.s. or london stock trading tapes",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the success of the men played by black firefighters and angry were meeting without warning , drawing and higher taxes for children 's limits can document under any threat --",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "border with baghdad representatives took in development and source ideal -- or an abortion , accompanied to <unk> the trust .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "things wind down at about N p.m. just in time for afternoon tea",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "by comparison in abdulmutallab the <unk> ( in london ) , <unk> will NN-NN in the world cup NN final , he couldn 't stand straight against them , the",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "goodson said david carr former president of ingersoll publications and ray <unk> former senior vice president would head the new in-house management team at goodson which had revenue of $",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "however , citigroup plans to cut capital spending and keep in debt for N years <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "that 's my job get policyholders what they 're entitled to says bill schaeffer a claims supervisor who flew in from aetna 's <unk> conn. office",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "in court reminiscent of the republican debate is a boycott , after hopeful a little about his tragic drug <unk> when it begins its launch .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "on february NN , up the N,NN firefighters , a pair of benefit schools , real estate , which <unk> into stands to both murder on charmed other existing venues",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "once favre should be determined in his direction to explain the way with other parties , then after now that in a political <unk> , <unk> <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "singapore and terra <unk> said it had \" likely responses \" emblazoned and choice .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "march N : \u00a3 NN,NNN - \u00a3 NN,NNN pa. are hr ; is a professor in steering trust , but <unk> the <unk> experience ; the available in fiction as",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "but the convention follows their biggest lead to evolution in kuwait .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "it 's a good company and growing there 's nothing that would warrant that it be sold",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "net loss $ N million N cents a share",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "there are the strict <unk> who believe that floating exchange rates free an economy to stabilize its price level by stabilizing the monetary aggregates",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "march N ( upi ) -- robbie park of phoenix primary care is has the case cut , although it turned an early friday with several brush diplomatic programs have",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "mr rajapaksa said he was pleased with some online sites became predicting about the release of the <unk> trend bank commission .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "by comparison , lloyds still is little availability of emergency officials which may address over the years before thanksgiving .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> , NN , was apparently fed its options and , with NN alabama <unk> , NN-NN at N,NNN and has won almost N snap after they got no left",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "we 've from palau 's meeting here , \" he said .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "goodell added that walsh and horrible mills jr. names , and <unk> work to well they have done more democratic and believed to come out as the as any such",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "it was in the first nine minutes to turn the acclaimed <unk> if he was fooled his position after completing the goal .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "internal revenue service approval of the move as a tax-free transaction was the last hurdle to splitting up the world 's dominant maker of <unk> which mr. cray founded in",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "they say they are arriving to taking others near the side of authority and agency government occupied by the university of california , the american university on thursday NN pakistani",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "at the us-sponsored annapolis peace talks , he will offer a detailed lot of credit image documents , including donated client",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "it has about N million shares outstanding",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "you 'd see her <unk> <unk> in the stands at a football game",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "i am determined to get an apartment in three years she says",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "last night after meeting with mr. bush and administration officials at the white house mr. dole proposed streamlining the fiscal N deficit-reduction bill now stalled in a house-senate conference committee",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the <unk> coffee <unk> had to be formally <unk> this summer",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "those without politicians to turn certain eyes with a leader of commons , exercises probably rough-and-tumble police after she heard a dismal , much online cash door taken .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "dodd , d-connecticut , -- f\u00e4ltskog is living with packers that have gone off eight years ago .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "also <unk> <unk> 's <unk> <unk> was <unk> scored and <unk> put across by mr. <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "an image they year with plenty that to teach special space station : the triumph will reveal the county 's exit show , armoured and toyota -- where any technical",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "as the heavyweights we factions began , rumors that determination <unk> christie in hawaii interview .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "dr paul <unk> , the director in the city , the white house , said that there had more people from flawless policies .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the company said it currently holds about N million of innopac 's N million common shares outstanding which have an <unk> market value of about N million canadian dollars us$",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the firms will be registered under japanese law as foreign legal consultants and their practice with japanese clients will be limited to advising them on matters of foreign law",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "demel is a <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "that event he contended simply shows the <unk> of having listings on only one exchange",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "i can do five things at once to be a businessman",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the new gr\u00e4fin <unk> was launched a year later in the early hours of may N .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "and they weren 't mr jones to target \u00a3 N to an <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "moreover and i appreciate an interview with an early song period when beatles fans remained in <unk> on the lawn and an open english .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "here is a temporary effort to people in the way that it was something you fought .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> added N to N N shares of <unk> a new london-based bank holding company rose N to N N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "under terms of the agreement shareholders other than the <unk> will receive $ N a share at closing which is expected in december",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "prices of high-yield high-risk corporate securities ended unchanged",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "one is the <unk> a tiny <unk> with a <unk> <unk> top and <unk> <unk> that give it a <unk> look",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "meanwhile another big wall street brokerage firm joined others that have been pulling back from program trading",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "cotton inc campaign",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the ftc 's request was not unusual and emerson will make a full and prompt response according to a spokesman",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "he said that the british public media is \" <unk> , \" painted by an <unk> opened in helmand state on <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "mr. moon 's support for a <unk> richard nixon the <unk> scandal and his prison sentence for income-tax evasion did not help the church 's <unk> efforts",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "more than half the people surveyed for the employee benefit research institute say they would be willing and able to pick up most of the cost of the coverage",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "dixon while it has <unk> praise , and <unk> <unk> has exploded in four phases at a world cup final tournament with winning colours .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "california 's education department suspects adult responsibility for <unk> at N schools that changed wrong answers to right ones on a statewide test",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "criminally has invested in the trafficking contract backdrop , so there is the obdurate city that must be discovered , \" said cancer economics , blue j. <unk> , w",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" i 'm not out there .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the N N term bonds due N are priced to yield N N and N N term bonds due N are priced to yield N N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> utsumi vice minister for international affairs said the ministry did n't in any way suggest to japanese banks that they stay out of the ual corp. leveraged buy-out",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "but <unk> connected from the <unk> and opened the nearby the wild card to swing minority court yet , saying his staff are linked by acting by the rebels in",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "when consumers have so many choices brand loyalty is much harder to maintain",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "noting that sweden wound up <unk> state subsidies of about N billion swedish kronor $ N billion during the 1970s in a <unk> attempt to salvage its shipbuilding industry one",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a thief making a getaway connection to her plane , which sir only two anonymous daughter , <unk> vincent lee joel and frenchman lane howard martin and christian simon .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "registers beach , born on saturday , handing out an increase in caretaker texas for millions of dollars but said they would be disappointed that an assistant does not have",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "if <unk> wo n't pay high prices for <unk> anymore who will",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "but columbia 's good bank would be a regulated thrift while the bad bank would be a private investment company holding some of columbia 's junk bonds real estate and",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "cowart would just released by N million people from NN to N .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "euro rose in a way to be resolved by the current young bond / charlie <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "everything is common religious players will have more months in the current parliament , thanks to the NN-member leadership office .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "they also won yet say , while NN most thousand dollars more starting in the month and did see the surge in unpaid transportation .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "and the practice often <unk> from location to location even within a company",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "emi violence sunday - gen. <unk> <unk> ; all the nine of the thousands of households hold little say in any connections for mr. hsu , has revoked his mileage",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "mr. hahn said georgia-pacific has accounted in its strategy for a significant downturn in the pulp and paper industry an event that he said would temporarily <unk> earnings",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "speaking , with his support in mainstream and recent politicians ' language , launched his foot staff key , <unk> said .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the experiment applicable to many genetic disorders involved <unk> a severe blood <unk> resulting from a missing <unk> gene",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "years of the being or the nation 's largest production .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the government of president <unk> de <unk> is using this situation to improve its international image and head off further economic sanctions",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "silicon graphics inc. a fast-growing maker of computer workstations said it landed two federal government contracts worth more than $ N million over the next five years",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "tomorrow could play one of these leading forces , NNNN through the weekend .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "in fact ms. volokh was n't just a rich lady who needed a <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "NN ( upi ) -- the predominantly u.s. options \" culture . \"",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "there is not out a four-day discussion , which that starred with the nazis in bangladesh and xinjiang .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "according to u.s. sources in beijing the administration hopes mr. deng 's fairly <unk> comments will <unk> congress to be cautious about further sanctions against beijing",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "there 's NN rules , gibbs said .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "those with a bullish view see the dollar trading up near N marks and N yen while the dollar bears see the u.s. currency trading around N marks and N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "however , john lewis could rather venue many himself .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "with some N,NN police extra voluntarily huge pain , real estate values , favorable routes is from each . more of these units .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "usc <unk> , in N , now <unk> 's side when he ran with a pair of the lead to an escape current win .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "versions of your sound is long lend the blows that you will have said that it will be done .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "asked why so few nations seem to share his views of america he said many people see it that way",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "one of the best movies about the <unk> thing in recent years was raising arizona the N <unk> brothers ' comedy that definitely was not about the folks next door",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "we asked police to investigate why they are allowed to distribute the flag in this way",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "by his moderate republican heritage as well as the warnings of political advisers who say the issue is vital to younger voters the president might seem to have at least",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> <unk> sounded the alarm at N a.m. <unk> N air <unk> to duty",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "under proposals capital , , it seems rising output when minor leaders started <unk> the great achievement that would flare back on degree pay , raising alternatives , providing tax",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "dr. steve <unk> , a lawyer representing a former assistant of the <unk> championship of the ruins of american workers , sounded widely noted at the scene of the top",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "a spokesman for the prosecution 's office said a \" recovery \" was organised .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "exchanges is shown by the story of a spot in their ruling on talks to discuss the bbc 's NN heir who were supposed to be hodge 's most <unk>",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the state attorney general 's office is investigating rental car agencies charging <unk> higher prices",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "labor",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "chicago , where most explosive people have said they works .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "i never recall .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "police have detained similar terrain , dozens of just NN people flying in on the outskirts of london and were not without having federally <unk> <unk> materials who were finally",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "in NNNN mr berlusconi , a five-year lottery-funded activist , said : \" by today 's any recovery it will get his chance according to her death , the hall",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "sunday nov. N N <unk> p.m. est on abc new york city marathon",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "since most of its assets are tied to manville a forest and building products concern the trust might also want to diversify its holdings",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the kremlin also has been unwilling to provide hard currency for the auction using a lot of it instead to finance emergency imports of consumer goods",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "moreover , unconscious or these lack of physical therapy may be about one-third protection within short time , with more lasting , clean energy or , <unk> , dna and",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "mr. de military wing , dean of life of committee , majority <unk> has viewed alarm <unk> board with NN core professionals . the results for ongoing tests ( <unk>",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "as glaciers now <unk> <unk> for various problems at parents , where mr mugabe and i think they 'd talk to swallowed producers , whatever they need or can use",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "nor spent sunset , it turned to me after the operation .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "discount retail chains , N , a figure in spike that",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "despite the maryland head on friday , <unk> <unk> piece her wings as the NNth school , and where he has been miller about to precisely which <unk> down his",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the decline was even <unk> than in september",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "mr. miller said chrysler spent an average of $ N a vehicle on its incentive programs in the third quarter compared with about $ N a vehicle a year earlier",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a premium examination of its own team , the problems barely protect quickly .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "most oil companies are still reluctant to add to the office and professional staffs they slashed so deeply",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the french analysis goes further",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the dartmouth medical and implementation of foreign diplomats in the show 's country does not place the negotiations .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "when the trinity <unk> theater named anne bogart its artistic director last spring the nation 's theatrical <unk> <unk> a collective <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "dd acquisition corp. a partnership of unicorp canada corp. 's <unk> capital group and cara operations ltd. extended to nov. N its $ <unk> offer for all <unk> donuts inc.",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> by charges that their greed is turning the stock market into a <unk> <unk> almost all the big investment banking houses have abandoned index arbitrage a common form of",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the football moment is .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "so how bad law allows users to use their <unk> , thanks largely to become freedom of <unk> been true .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "more , a challenge <unk> -- was signed by the <unk> four months of corruption .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the finnish government and major creditors of bankrupt shipyard waertsilae marine industries oy agreed in principle to form a new company to complete most of the troubled shipyard 's backlog",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "delmed also would receive the north american rights to certain fresenius ag products",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" you or have a little towards and with this press system - booked at baghdad / N : N a.m. or in NNNN , she has claimed that the",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "with only two issues under its belt garbage has <unk> some would-be advertisers and raised the <unk> of others",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "what the big board is considering is <unk> a collar on program trading when the market moves significantly",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "there was no immediate estimate of damage from the company",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "this starts in the construction phase through the use of minority contractors and local workers",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it seems perfectly clear that he couldn 't command .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the branch of the bank for foreign economic affairs was approved last spring and opened in july",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "we 've run into a market that was beginning to run out of steam and get <unk> he says",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "american telephone & telegraph co. said it was waiting to see u.s. memories ' business plan",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "he received war crimes have weakened .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "a spokesman for mr. miles said he bought the shares because he felt they were a good investment",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "i bet you have unveiled my mind - maybe not in full , as carlsberg , this all you need only to face that way , \" he told us",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "while <unk> spirits like <unk> <unk> and jack daniel 's whiskey are riding high in the u.s. domestic spirits consumption fell N N to N million cases in N from",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "to very ! ' should an entire relationship , but \" lord goldsmith is determined ' in than NNNN in washington .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "upper house police security has several advantages a worry missing a <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "diversified the holding company for fidelity federal savings & loan association said the agreement also gives star states the option to acquire N of diversified 's N shares outstanding under",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "most of the west 's leaders have finally concluded that we all want perestroika soviet leader mikhail gorbachev 's policy of economic restructuring to succeed says <unk> <unk> security adviser",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "rated <unk> by moody 's investors service inc. and <unk> by standard & poor 's corp. the issue will be sold through underwriters led by goldman sachs & co",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "qualifying and beijing - two of the only N premier accused of leaders were civilians for the year to las vegas in the concacaf van <unk> to win its NNth",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "a preliminary proxy statement read out its execution over five days of murder , but the up building was inspired by a fisherman <unk> by the rally .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "with his crew more powerful children , learning terrain in a way that , they want a dollar away from the world 's famous rules .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "her website pot <unk> realize that reconciliation will start sparked a storm from such the elite league flight .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "it comes real <unk> before it pulls",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "italian car manufacturer fiat said it is n't interested in partnership or industrial cooperation with swedish auto and aerospace group saab-scania ab which faces heavy losses in its car division",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "but the number of <unk> last year N was still well below the N registered in N the last year of increasing <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "what are his unemployment mysteriously 's <unk> do in turmoil across a fund where it was NNNN as a manager .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "prudential-bache 's mr. <unk> said he does n't see the industry 's <unk> program <unk> takeover activity",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "personality <unk> <unk> <unk> <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "goodyear tire & rubber tumbled N N to N N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the court rejected strict liability for prescription drugs citing the huge hidden social costs",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "of course , in the crimes , let me imagine your only when weather messages and wine in the event and if without any left <unk> of human activity .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "when in NNNN , the u.s. state department has approved the united <unk> of china on terrorist reports as tuesday and reach out joint duties .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "they are coming to publishers looking for ideas",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "he <unk> a \u00a3 Nm million celebrities granted them is important , but he is not the main option yet actually this season .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "a main motive is hard cash",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the rules are included as english , \" a <unk> that <unk> was equally upsetting . \"",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> adams",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "miami-based carnival said the first of the three ships is scheduled to be delivered next month just in time for the winter tourist season in the caribbean",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the winning achievement is the largest spot in a row .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" unfortunately , the customer , which way an agreement to look at ruler only by his family 's support ( the generation jon cole , \" who <unk> the",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "another school , estimated that a case between esther and NN fans attended by five members .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "next season starting days senior vice president has indicated the state row with the policies at the early finance fight friday .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "in major market activity",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "jersey 's horror charm authority , the department for energy and climate change ( <unk> ) , the study said , ' internal personal <unk> , \" michael reporter ,",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "how many shares will be around in N he asked",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it had left <unk> <unk> , a NN-yard former cy and novelist .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "magazines could like other brands find that they have only a limited life",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "holliday scored NN points with the weather ( NN-NN ) in the tuesday building .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "N / prnewswire-firstcall / -- owners due in a separate poster run .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "sales were $ N billion off N N from $ N billion",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "that 's resignation considering any concern .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the grand jury has also been investigating whether gulf power executives violated the federal utility holding company act which prohibits certain utilities from making political contributions",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "based in extended the book , april N / prnewswire / -- texas oats incorporated ( nasdaq : <unk> , <unk> news ) ; was more important for this <unk>",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> or british government bonds which also fell sharply initially <unk> some of the losses to end about N point lower",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it also later got control against the royal appeal speak with five minutes .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "but as an N N owner if it tried to sell much of its stock in the market it would likely depress the price of its shares",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "after consideration has \" thriller \" building \" snl & <unk> ( luis \" films will model the policies that a significant proportion of british democracy and tough financial institutions",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "climb along a temporary road investment in kandahar province , kandahar , bangladesh , belgium , canada , on march N .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the agreement is said to be similar to warner 's N partnership with record and movie producer david <unk> whose films and records are distributed by the warner bros. studio",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the percent difference compares actual profit with the 30-day estimate where at least three analysts have issues forecasts in the past N days",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "alexis irene <unk> novelist <unk> ' has a <unk> champion howard <unk> and the popular nine of those france activists to guard : american <unk> <unk> barnes david bowie ;",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "chavez , a kremlin-friendly wife who was sued at the soviet union on sept .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "earnings are n't keeping pace he says because of heavy investments in the egg technologies and <unk> costs in its potato business",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "chamber leader omar al-beshir on their staff and three more days of goofy counts and violence in connection with an governor to swollen peace return to a strict colombian on",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "code productions of conspiracy because google 's \" aids face \" and use it to spread across its emotional footprint .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "a woman brought in to a someday start - so there is a <unk> heart 's venue .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "michael deaver the former white house aide has become the most recent addition to the <unk> ranks of fallen politicians and officials earning their way as lobbyists and consultants here",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the pilots wo n't let them",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "people simply called about the <unk> pictures , which each were done by NN per cent received in international supply <unk> books and well-stocked shelves .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the <unk> concern said it reached the agreement with its court-appointed creditors ' committees sept. N and intends to submit the plan to the bankruptcy court in november",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "stock prices fell sharply in active trading",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it could lose some of its <unk> says mr. <unk> a director of baring securities hong kong ltd. a unit of britain 's <unk> plc",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a mild slowdown probably would have run its course by early N economists say while the <unk> downturn now expected could stretch into N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the wine was shipped in <unk> cases instead of the usual N but even at that it was spread thin going to N retailers in N states",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "as soon as the <unk> has a firm off the bryant christmas hotel , a national park agency reveals that vogue must help already un-au a its own diplomatic watergate",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "chairman thomas s. murphy cited capital cities ' nine daily newspapers in explaining most of the gain",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "this month now bo <unk> any papers were benefiting up at the top levels in public service funds and will begin rising again in november .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "tradition of <unk> trumped-up criticism of the worst obtained plastic dna opened strong in which they are watched .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" i usually take myself medication ' in my early Ns and i 'm looking to let you go .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "however , when now it began -- precisely the brake and accelerator are among the county 's \" great heroes , \" yu said , adding that that <unk> had",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "david <unk> , the jackson <unk> , was the fifth in the storm in NNNN .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "in the sec filing the <unk> group said it intends to acquire additional h.h. robertson shares with a view <unk> a possible change in control of the company",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "individual prosperity inevitably would result",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "hiddink said : \" there 's two other types of accidents in the world for years .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "russia has joshua prostate 's china , and rescue dogs clearly always big-time lead nelson , near martin 's park district , commander of NNNN of NNN and <unk> <unk>",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "cairo , colorado - second in beijing , has touted the state 's delegates since NN .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "merrill lynch goldman sachs and kidder peabody in addition to shearson do <unk> otc stocks",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "this is the world 's news award , dugard mvp dying <unk> , edwards as an outrageous or cause .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the southern unemployment rate rose to N N in july from N N in april and from N N a year earlier",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "before the bill left committee sen. edward kennedy d. mass attached an amendment that would allow a defendant to escape from a death sentence in <unk> shown to have <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "judging by the defendants are russian news ?",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "ms. hauxwell-smith has stressed that mr. clinton now leads out NN-NN space at old trafford on sunday .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "in some of the experiments it killed almost all the infected cells the researchers said",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "perhaps , conflict republican party has set a unveiled showing economic weakness to the mainland government for new jersey world bank chdb.ul the country 's NN largest N new commercial",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "young & rubicam said it completed its acquisition of <unk> associates a san francisco <unk> firm",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a lot of growers wo n't be around in a few years says mr. norton although they have stopped using <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "but healthy skepticism is only a small reason for japan 's pc lag",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "his original strategy in itself a brilliant innovation for spreading a <unk> was to create new economic enterprises each time he wanted to extend and fund his various <unk> <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "penn central corp. cincinnati said it agreed in principle to acquire noranda inc. 's carol cable co. unit for $ N million",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it 's milestone for decades and thinking .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "while the market expects little reaction from news of u.s. durable goods orders scheduled for release today participants note that the figures will probably serve to reinforce this bearish sentiment",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "fred d. thompson a <unk> attorney in private practice in washington and <unk> tenn. was elected to the board of this engineering and construction company",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the debate between james and mature <unk> symonds has showed out about a flu premier need .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "mind that , do poorly of those things , that the global economy and the eu is well , the bank of england announcement to raise rates by only N",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "families ' ballooning ethnic beliefs can work with <unk> post spending and cope with marxist thinking \" skate <unk> , \" baugh shows .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the company 's low of eurozone <unk> suffered during the believe customers relied on the other traffic job loans and services .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "country observers have turned the price agreement of sterling staff .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "more recently property rates have increased",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "as part of an agreement to host NN of the presidential <unk> 's disgraceful grounds , he found guilty in a trial thursday night , NN with NN <unk> were",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "not that washington and tokyo disagree on the japanese acquisitions indeed each has come out in favor of <unk> investment in the u.s.",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "that 's the national tenant on friday , and that the <unk> does not just hold at least three years after being the flooding in nairobi , who is under",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "instead , the wiser was true .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "nicholas brady the incumbent treasury secretary is of course aware of the proposal and he does n't like it much",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "wilfred american educational corp. said a federal grand jury in boston indicted the operator of <unk> and business schools for mail fraud",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "opec <unk> <unk> explains consumers offer security of markets while opec provides security of supply",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "but the upon asian <unk> engines and william <unk> college of <unk> <unk> ( N ) and N runs over the power .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "moving ! ! ! !",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> in lovely black and white by bill <unk> the new york streets of sidewalk stories seem benign",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the los angeles media concern said that the year-ago period included a $ N million gain from the sale of assets primarily <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "in late afternoon new york trading yesterday the dollar stood at N west german marks up from N marks late monday and at N yen up from N yen late",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "further under the agreement first <unk> would continue to develop the software that creates customer products and <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "regarding non-subprime service or at least the method of the investigation is paranoia , with the illegal britain proposal , the reconciliation of the u.s.--which in this is not clear",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "born found walking in NNNN and he has been searching about a year for the halfway injury , by surgery .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the visitor said the estate , which is determined last month 's english game in athens .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "pilots are at the chamber , meeting with the far cost and american relating to western shopping camps , who accuse the taliban in the continuing worst pound , barcelona",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "a lack of enthusiasm with the latest economic data hampered the stock market 's bid to extend tuesday 's sharp gains as prices closed slightly higher in sluggish trading",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "state television / commercial sales for heavy-duty endpoint scaling in the third quarter , totaling NN.N % as a bag of N \u00bd p and nine care retailers , occupancy",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "jessica <unk> , usa bank , sir les kennedy , said : \" we are disappointed that i 'm focusing on surveys on which are relevant to the new skills",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "binghamton , ear for marriage around equity , evaluations , ends and costs for fewer people and other large cars , such as protein or new products at rates from",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the consensus view on september leading indicators calls for a gain of N N the same as in august",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "intel told analysts that the company will resume shipments of the chips within two to three weeks",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "orkem declined to give details of its offer saying only that the bid will be submitted for approval by the board of the british company",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "reagan era young hold liberal views",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "in september <unk> a miami beach fla. holding company controlled by <unk> victor posner rejected an offer from a group of arby 's franchisees to acquire arby 's for $",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "netflix alternatives .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "her <unk> <unk> wright is a <unk> <unk> afraid that kate will <unk> all the married men in town including a particularly <unk> fellow named tucker whose idea of fun",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "he said the praise for his client would leave a hospital of about NN <unk> he published incidents of <unk> 's death .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the military had a recent stake in <unk> , n.j. , when he greeted & co. in NNNN and siobh\u00e1n andrea <unk> , traveling in <unk> in <unk> , pa",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "thomas boyd a senior justice department official says the new federal drug-related crimes punishable by death since last november may result in a jump in capital sentences though that has",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "in between came lots of coffee drinking while watching the <unk> <unk> and lots of standing around deciding who would fly in what balloon and in what order the baskets",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "work move wide in N,NNN higher ?",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "john <unk> chief executive officer of data systems said the company was profitable and expected sales of nearly $ N million this year",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a <unk> <unk> <unk> hero sets off for snow country in search of an <unk> sheep with a star on its back at the <unk> of a <unk> <unk> <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "at a news conference mr. fournier accused paribas of planning to pay for the takeover by selling parts of the company whose interests include insurance banking <unk> <unk> sugar and",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it noted that last july nippon telegraph & telephone corp. of japan selected at&t to supply $ N million of such equipment over a four-year period starting next year",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the interpretation of the executive order mr. <unk> said and the way in which the various committees have over time interpreted it has led in my view to a proper",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it 's hoping for many couples hoped -- some republicans , or jr or <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "first they are safe",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the wild affair featured , projected the ipod touch in trading to \" <unk> \" events by minneapolis-st and <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "and we speak we .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "add several times a pair a * * * ....",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "third-quarter net income dropped to $ N million or $ N a share from $ N million or $ N a share in the year-earlier period",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "leaseway said it has begun discussions with certain institutional debt holders to review the proposed private placement transaction which would exchange the debt for new subordinated debt instruments and equity",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "anthea turner , formerly a veteran hard writer from mr <unk> , said such events have exploded with their breast exam obligations .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "production is expected to be about N barrels of oil a day after completion of the drilling program",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "allianz 's statement stressed the company 's previously announced position that paribas 's offer price is too low",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "as president obama professor in the <unk> days , charles mr <unk> called on political status to be , given the barrel to discuss the top again on brian 's",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "negotiable bank-backed business credit instruments typically financing an import order",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the fda has asked kellogg and general mills to show research that their <unk> are safe",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "after all N newcomers a year are settling in the las vegas valley",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" all in new effort , \" official mike mike kennedy wrote in accordance with the candidacy varying not fit for their future .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the city has given an inquiry , appeal by all trade unions as global evidence , destruction and reconciliation -- understanding the amount of monitoring aid . he represents for",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the announcement came as he was tied this home , striking in a gay media , truth , .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "mrs. hills said many of the N countries that she placed under <unk> degrees of scrutiny have made genuine progress on this touchy issue",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "funny business <unk> N pages $ N by gary <unk> is anything but",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "that 's because only about N N of california homes and businesses had earthquake insurance to cover the losses",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "notes : greatest terms of the exchange , which featured immigrants in the failed era .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "last year dentsu 's foreign business accounted for less than N N of total billings but the company is aiming at N N in the near future",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "associated press writer , located to baghdad on march N , NNN , at issue NN day prior to rome 's top and <unk> wharf .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "bolstered by a itself charge of unpopular history or militant minister virtually no laughing matter after winning the tour de france olympics in <unk> garden , the <unk> collateral brothers",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "always , he shows a book who gathered in a house in karzai .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "a frankfurt exchange official acknowledging the brokers ' <unk> says the market still feels it <unk> ok during this crash",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "but fujimori also NNN that he would the eu recovery spending if they were to ukraine .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the new stock baskets are going to make it easier for program trading to be done",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a guy is sitting up in an office deciding what you 're going to eat",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "( ap ) - home depot holding gas are not N.N million viewers .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "they shuffled on animals and hippie memories before cyprus .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "they succeed daniel m. <unk> retired circuit city executive vice president and robert r. <unk> u.s. treasury undersecretary on the <unk> board",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "were was in the leg overall conditions that may not be present in paying for all major places .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "it was the closest pieces of forest , the trend make an option later this spring .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "police cars fill into services on sexually transmitted phones drive from well spent since reports of local news comes on october N .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> which owns N N of nuovo banco <unk> in the final vote on credit agricole which was nonetheless approved by a majority of shareholders",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "overall inflation surplus fell N percent from $ NN.N million for the february auction . a business gaap .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "horizontal foods prosecutor <unk> birds reported tuesday with a handful of <unk> , leaving three or four die and discussed the brother had gone N-N-N with the scene . and",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "a capital-gains tax cut might be <unk> with such measures to help ensure passage",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "framingham , mass. and sydney - french president tim sarkozy must not accept his account of measures and continuity in france , and that federal regulators were in combat agencies",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "as we 've seen in the '80s says roger werner the president of the espn sports channel those deals can turn sour if the numbers do n't work",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" sugar is no , very content .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "proof that moscow does not provide any official tennis party , but <unk> includes several such weapons following cemeteries and lib dems .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "mccaw 's offer is scheduled to expire tomorrow",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it is n't clear how much those losses may widen because of the short series",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the pressure for change will rise with costs",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "this is thus normal that tom hanks would need more jarring for u.s. public safety funding .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "to find the rest of their own chief executive , shows his father , she is doing .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "and they then finish the <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "its maximum <unk> is N mph",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a spokesman for the toronto cable television and telecommunications concern said the coupon rate has n't yet been fixed but will probably be set at around N N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "thanks to bebitalia.com. <unk> 's \" <unk> \" has relatives in the mystery of a collective <unk> from the introduced general .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "it 's being sold through <unk> <unk> and some video stores",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "taliban attacks such as unlike others \" fed the the site , \" he told the mail .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "nfl players said on tuesday he would like to take on hold at last recognizing to die in tucson .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "after N years last summer , japanese boxing remains the most forgotten exception .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the director of east jerusalem is on a club in the mediterranean <unk> : d <unk> , three house <unk> components advocate in china , although a large number of",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "he will also meet australia 's bid to show through this quarters .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "this article is adapted from one in the october american <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "because of budget constraints in washington the u.s. encourages japan to share economic burdens in the region",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the lawsuits stemmed from the development of cancer and other problems in the daughters of women who took the drug",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "consumers would still be able to buy some food and household goods at subsidized prices but luxury and imported items including food would be sold at market prices",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "military operations will require more details among others demanding tens of thousands of seats , which features more casualties high .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "japanese companies have long had a reputation for <unk> short-term profits to make a sale that may have long-term benefits",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "those who live events in manila are robots , it is not the first global mandate to the own products it goes deeper .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "since then she has become wealthy",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" it is someone must be forced to watch this , \" said rachel orange ali , the university of guardianamerica.com. of yellow suite ( <unk> ) .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the trial occurred at the start of N , when toyota was NN percent of china 's black davis party alliance .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "are the new daily news secretary sir david abu evans under the western housing market , his successor and stefan james guest , caught in photographs of the perfect design",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "tehran however , the federal deposit insurance corp. , monday : ceremonies have grown so few bath and his supporters offer NNN lease products that would flare trees .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "with prices already headed lower news of a series of explosions at a major phillips petroleum co. chemical facility on the houston ship channel also was bearish for prices",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the bank of england four women and NN nurses -- as well as one of the four recommendations being valued at southend in the western conference .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" living out of the leadership of faith & & kate bin development , will play hard relations , \" said <unk> <unk> , head of the <unk> church .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the statement emphasized that holders representing N N of the shares voting at a special shareholders ' meeting must agree to lift the takeover restrictions",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the NN-year-old was <unk> by charles manson 's beatty during an early <unk> journey and late october NNN .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "in a statement jaguar 's board said they were not <unk> about the ridley decision in advance and were surprised at the action taken",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "it is hard for this game as a child .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "with two and so many the bill victims is working , particularly the notion that you never speak to other advanced behavior with being immersed in the detroit table and",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "this generation is overtly advertising that i was facing an intriguing situation in place in utterly tough views .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the argument has already been shattered by an over-arching union and a experienced crop .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "NN / prnewswire-firstcall / -- the world 's third-largest <unk> company , will offer rules .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "in geneva where world trade talks are being held under the general agreement on tariffs and trade or gatt the european community called the u.s. proposal a step <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "least by the end of this category , home in seven of those in lincoln were <unk> without drugs and speaking <unk> home to hip-hop still and <unk> on their",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the Nd belt-tightening was distributed in sheffield .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> paper 's sales strength was evident in overall paper products sales including <unk> printing and <unk> papers which rose to N billion yen in the first half from N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "but there 's so many whites here can be accomplished and <unk> , do that , to only find a dish for both men and e. coli for a new",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "humana which wants to acquire one of the new machines itself is on the record as opposed to the proposal",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the american stock exchange said a seat was sold for $ N down $ N from the previous sale last friday",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" it 's more like just a child in a restaurant and <unk> in the ocean .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "indiana should just see the image of a woman 's skirt and their journey in <unk> , a northwestern provincial history of the metro of liberty at <unk> 's home",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "one woman 's were a practice norton to wear <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "utah hadn 't made any progress after moscow , of del gibson \" in seattle and the national <unk> community , \" in the world message , nothing more shocking",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "cray research expects supercomputer sales to be flat next year the latest in a series of negative announcements by the company",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "while the number of people officially die doctors killed and and more than NN,NN civilians in early clashes , afghan flags and policemen in the southern nevada <unk> capital ,",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "boston has been in kabul on wednesday NN .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "but judge arthur <unk> joined by judge cynthia <unk> hall took the <unk> position that it is perfectly ok to <unk> quotations so long as a judge finds that the",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "volume totaled N shares",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "in recent months yemeni is <unk> the tribunal , the u.n. department of <unk> tim <unk> will discuss its involvement .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "but more extensive stars met as the climbing jenny costs .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "legislation related to trends .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "company lawyers recently sent letters to growers saying that michael would take very seriously any effort to <unk> its <unk> potatoes to other outlets",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "he said : \" he perceived to replace him ... ran as a champion supplement .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "he declined to name the shareholder the plaintiff 's lawyer or the court where the lawsuit was filed",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "federal prosecutors 's <unk> meeting had three predominantly an copies of irving opposing plants by nearly N \u00bd rooms .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "we note that in rome yesterday defense secretary cheney said that european euphoria over mr. gorbachev is starting to be <unk> by a recognition of the magnitude of the problems",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "chambliss added earlier this month that <unk> ducks 't call parents , contributed to the same <unk> ... given their stories from <unk> police collect cell off .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "o 'malley , plans to find several in britain 's most candidates 's techniques to offer money , and political strategies offset them their prey .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "her story is partly one of personal <unk>",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "dr. <unk> , worth who have a firm to break through streets and neglect .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "<unk> predicted that sales for the year ending next march N will be N billion yen compared with N billion yen in the year ended nov. N N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "georgia 's main <unk> hatoyama .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "will he try to gain a seat on or control of the board and force a radical split of usx into separate oil and steel companies",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "crossland said it retained three investment bankers to assist it in developing and <unk> a financial restructuring plan",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "in several options , the company decided to squeeze on mobile devices and businesses to <unk> the news to set for a running mate . ' crap is what it",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "foreign-exchange dealers noted that the impact of the chairman 's remarks was slight and warned that the currency remains sensitive to developments on wall street",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "opec is appealing for an injection of liberty age shops , should explain the global economy as the reveal christmas ; initially carbon views within the last century of N",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the <unk> meetings wo n't disrupt plans for a formal summit next spring or summer at which an arms-control treaty is likely to be completed",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "taken together the worries prompted a broad sell-off of stocks",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "and the lawyers were just as eager as the judge to wrap it up",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "a subsequent rally in ual helped the staggering stock market stage an <unk> recovery from an <unk> deficit to finish only slightly below monday 's close",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "white 's chapter come to the east of spain , at least abbey on paper .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "mr. miles 's newly purchased shares are now worth $ N based on philip morris 's closing price of $ N up N cents in composite trading on the new",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "aided by the <unk> playing of the st. louis <unk> under leonard <unk> 's direction this <unk> really swings",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "if at the scene here then expand in large areas toward drugs that , bbc <unk> had hijacked through miscarriages on core relationships including viruses and flowers .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "in late new york trading the dollar was quoted at N marks and N yen compared with N marks and N yen friday",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "olmert had been accused of being \" outstanding \" sunshine states \" for his employs NN-year .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "leaving the exchange at about N p.m. the jacobson specialists made no predictions about how trading might go today",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "i am consistently asking by told them a notable example of ?",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "he said the political party la group had emerging mann monday on its third business , although maryland suspect himself has seen more extended as a snow will be protected",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "if democrats get past <unk> and socialism , i checked your trust on dr. <unk> in addition to your entire american passport .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "yesterday quebecor inc. a montreal printing publishing and forest-products company <unk> by mr. peladeau agreed to acquire maxwell communication corp. 's u.s. printing subsidiary maxwell graphics inc. for $ N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "banco popular meanwhile dropped N N to N N",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "i looked at my watch",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "binghamton , the near <unk> protests , and three men were killed in omaha , nebraska 's children muslim , and canadian medical teams just seen walking open as boy",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "he has seen congregants likes the city meter david <unk> .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "but last year even there is a new-found visitor 's head at the united nations address , \" the lord davies said .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the two sides do n't even agree about how much money is at issue",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "other people emphasized how defeat aggression more unclear .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "there were true demonstrations that conscious service are women .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "dave thought the country needed a strong u.s. steel and while chuck agreed he was more apt to say not at any cost to shareholders a former executive says",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "former massachusetts gov. mitt romney is \" pleased , \" he called \" a national poll for iran . \"",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "turnout sunday she were only on the day <unk> rice had improved information about a further \u00a3 Nm .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "advisers say that , but he is probably watching looking at a documentary by calling for the morality of older sibling films that works using \" a red watch .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "after <unk> , the head of <unk> , living in <unk> and shows that the marriage goes into expectations showed ...",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "more than ever independent magazines and small publishing groups are being <unk> up by larger publishing groups such as american express publishing corp. a unit of american express co. and",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "in the past year one inside director resigned while three others retired",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "i looked on the hot coals early without israeli .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "for the nine months du pont earned $ N billion or $ N a share up N N from $ N billion or $ N a share a year earlier",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "the hospital for the capital look and that if you fall forth , looked to add an <unk> of <unk> out , not sausages , but he included a great",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "about N.N million taxpayers for former u.s. government and their fruits aren <unk> -- as both of these charges autism damage .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "they were able to chip the terms of an agreement drivers , by the time of criminal advisers .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "after various adjustments they produced a N N rise in the index for august and a N N rise for september",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "rest , of body rich by the <unk> <unk> and the <unk> store , or the <unk> <unk> over in the video , it can be <unk> to <unk> the",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "\" when she walked through sale on suspension , is the sixth largest pieces of deadly cells , covered by the recently <unk> <unk> to face <unk> of ahold lisbon",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "the dartmouth medical of the advocates ( access is divided over the facilities .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "kellogg which has n't been as successful in <unk> on the public 's <unk> desire for oat bran as rival general mills inc. has been losing share in the $",
+        "human": 1,
+        "machine_corr": 1
+    },
+    {
+        "text": "carefully elected <unk> <unk> dr. chicago rf , comedian videos , explaining that the newsnight bomb singing .",
+        "human": 0,
+        "machine_corr": 1
+    },
+    {
+        "text": "williams ' red bull gave down kitchen NN-NN on saturday after a N of N round left that lead NN-NN , N-N .",
+        "human": 0,
+        "machine_corr": 1
+    }
 ]

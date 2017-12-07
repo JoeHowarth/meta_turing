@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
-import sents from './data/sents.json';
+import all_sents from './data/sents.json';
 import Sentence from './components/sentence.js';
+
+var sents = getRandom(all_sents, 8);
 
 class App extends Component {
   constructor(props) {
@@ -35,7 +37,7 @@ class App extends Component {
       let x = human_scores.copy()
       x[id] = true
       this.setState({
-        correct: this.state.correct + 1
+        correct: this.state.correct + 1,
         human_scores: this.state.human_scores
       })
       console.log(sent);
@@ -116,6 +118,20 @@ const InfoContainer = (props) => {
 
   }
 
+}
+
+function getRandom(arr, n) {
+    var result = new Array(n),
+        len = arr.length,
+        taken = new Array(len);
+    if (n > len)
+        throw new RangeError("getRandom: more elements taken than available");
+    while (n--) {
+        var x = Math.floor(Math.random() * len);
+        result[n] = arr[x in taken ? taken[x] : x];
+        taken[x] = --len;
+    }
+    return result;
 }
 
 
