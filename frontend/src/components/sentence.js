@@ -5,27 +5,46 @@ class Sentence extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      human_correct: null,
       clicked: false
     }
   }
 
+
   render() {
     const {sent, id, display} = this.props
+    let { clicked} = this.state
+    let classes = "Sentence"
+    let human_correct = null;
+    let label
 
-    if (this.state.clicked === (sent.human === 1) && this.state.human
-  !=null) {
-      this.setState({
-        human_correct: true,
-      })
+    if (sent.machine_corr) {
+      label = 'Machine: correct'
+    } else {
+      label = 'Machine: wrong'
     }
+
+    if (display === 'answers') {
+      if ((clicked && sent.human) || (!clicked && !sent.human)) {
+        human_correct = true
+        classes += " h_corr"
+      } else {
+        human_correct = false
+        classes += " h_wrong"
+      }
+      label += '  ' +(sent.human? 'Hu':'Ma')
+    }
+    if (clicked) {
+      classes += " clicked"
+    }
+
+
     return (
       <div
-        className={"Sentence "+sent.class}
+        className={classes}
         onClick={() => this.props.checkCorrect(sent, id, this)}
       >
         <p className="sentText" >{sent.text}</p>
-        <p className="sentClass" >{sent.class}</p>
+        <p className="sentClass" >{label}</p>
       </div>
     )
   }

@@ -5,7 +5,7 @@
 .App-header {
   background-color: #222;
   height: 50px;
-  padding: 20px;
+  padding: 15px;
   color: white;
 }
 
@@ -37,27 +37,41 @@
   border: 1px #AAA solid;
 }
 
+.info_container div{
+  margin: 10px;
+}
+
 .Sentence {
   width: 800px;
   height: 70px;
   background: #CCCCD1;
   margin: 10px;
   border-radius: 5px;
-  /*display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-content: flex-start;*/
+}
+
+.h_corr {
+  background: #b3ffb3;
+}
+
+.h_wrong {
+  background: #ffb3b3;
+}
+
+.clicked {
+  border-radius: 30px;
 }
 
 .sentText {
   width: 80%;
   text-align: left;
   padding: 1px 25px;
+  float: left;
 }
 
 .sentClass {
   width: 10%;
   margin: 10px;
+  float: right;
 }
 
 .Sentence:hover {
@@ -70,7 +84,7 @@ button {
   height: 50px;
   background: #2b6ab8;
   color: white;
-  margin: 40px;
+  margin: 30px 0px 20px 0px;
   border-radius: 5px;
 }
 

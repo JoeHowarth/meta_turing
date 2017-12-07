@@ -4,7 +4,6 @@ import all_sents from './data/sents.json';
 import Sentence from './components/sentence.js';
 
 var sents = getRandom(all_sents, 8);
-
 class App extends Component {
   constructor(props) {
     super(props);
@@ -26,6 +25,7 @@ class App extends Component {
     this.onDone       = this.onDone.bind(this);
     this.Reset        = this.Reset.bind(this);
     // window.addEventListener('keydown', this.handleKey);
+    console.log(sents);
   }
 
   checkCorrect(sent, id, child) {
@@ -33,12 +33,12 @@ class App extends Component {
     let {clicked} = child.state.clicked
     const human = sent.human
     const {correct, human_scores} = this.state
-    if (!clicked && human === "1") {
-      let x = human_scores.copy()
-      x[id] = true
+    if (!clicked && human === 1) {
+      // let x = human_scores.copy()
+      // x[id] = true
       this.setState({
         correct: this.state.correct + 1,
-        human_scores: this.state.human_scores
+        // human_scores: this.state.human_scores
       })
       console.log(sent);
     }
@@ -61,16 +61,17 @@ class App extends Component {
   }
 
   render() {
+    const state = this.state
+
     let components = sents.map((s, ind, sents) => {
         return (
           <Sentence
             sent={s}
             key={ind}
-            checkCorrect={this.checkCorrect}>
-          </Sentence>
-        )
-    })
-    const state = this.state
+            checkCorrect={this.checkCorrect}
+            display={state.display}/>
+      )})
+
     return (
       <div className="App">
         <header className="App-header">
