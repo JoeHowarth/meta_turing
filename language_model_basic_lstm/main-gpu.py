@@ -9,15 +9,20 @@ from data_utils import Dictionary, Corpus
 # Hyper Parameters
 embed_size = 128
 hidden_size = 1024
-num_layers = 1
+num_layers = 2
 num_epochs = 5
-num_samples = 1000   # number of words to be sampled
+num_samples = 10000   # number of words to be sampled
 batch_size = 20
 seq_length = 10
 learning_rate = 0.002
 
+#Potential Additions: Attention, Bidirection, Adaptive Softmax, Residual Connections
+
 # Load Penn Treebank Dataset
 train_path = './data/train.txt'
+# Load Google BilWords Dataset - run preprocess.py first
+train_path = './newtraining.txt'
+
 sample_path = './sample.txt'
 corpus = Corpus()
 ids = corpus.get_data(train_path, batch_size)
@@ -29,7 +34,7 @@ class RNNLM(nn.Module):
     def __init__(self, vocab_size, embed_size, hidden_size, num_layers):
         super(RNNLM, self).__init__()
         self.embed = nn.Embedding(vocab_size, embed_size)
-        self.lstm = nn.LSTM(embed_size, hidden_size, num_layers, batch_first=True)
+        self.lstm = nn.LSTM(embed_size, hidden_size, num_layers, batch_first=True, dropout = 0.1)
         self.linear = nn.Linear(hidden_size, vocab_size)
         self.init_weights()
         
@@ -40,7 +45,11 @@ class RNNLM(nn.Module):
         
     def forward(self, x, h):
         # Embed word ids to vectors
+        print("INPUT SIZE:")
+        print(x.size())
         x = self.embed(x) 
+        print("EMBED SIZE SIZE:")
+        print(x.size())
         
         # Forward propagate RNN  
         out, h = self.lstm(x, h)
@@ -49,10 +58,13 @@ class RNNLM(nn.Module):
         out = out.contiguous().view(out.size(0)*out.size(1), out.size(2))
         
         # Decode hidden states of all time step
-        out = self.linear(out)  
+        out = self.linear(out)
+        print("OUTPUT SIZE:")  
+        print(out.size())
         return out, h
     
 model = RNNLM(vocab_size, embed_size, hidden_size, num_layers)
+# model.load_state_dict(torch.load('modelgood.pkl'))
 model.cuda()
 
 # Loss and Optimizer
@@ -119,4 +131,4 @@ with open(sample_path, 'w') as f:
             print('Sampled [%d/%d] words and save to %s'%(i+1, num_samples, sample_path))
 
 # Save the Trained Model
-torch.save(model.state_dict(), 'model.pkl')
+torch.save(model.state_dict(), 'modelgood.pkl')
