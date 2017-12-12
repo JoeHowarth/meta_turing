@@ -6,7 +6,7 @@ from model import *
 from data_utils import *
 from conf_utils import *
 
-
+#SAVE THING AFTER SOME NUMBER OF EPOCHS SO TRAINING CAN BE REFRESHED
 flags = tf.app.flags
 flags.DEFINE_integer("vocab_size", 2000, "Maximum size of vocabulary")
 flags.DEFINE_integer("embedding_size", 200, "Embedding size of each token")
@@ -29,34 +29,41 @@ flags.DEFINE_string("data_dir", "data/1-billion-word-language-modeling-benchmark
 
 def main(_):
     conf = prepare_conf(flags.FLAGS)
-    
+    print "Config Prepped"
+    #each batch stored in a list index
     x_batches, y_batches = prepare_data(conf)
+    print "Data Prepped"
     model = GatedCNN(conf)
-
+    print "Made Model"
     saver = tf.train.Saver(tf.trainable_variables())
     print "Started Model Training..."
     
     batch_idx = 0
     with tf.Session() as sess:
+        print "Runnning Session"
         sess.run(tf.global_variables_initializer())
+        print "Writing Summary"
         summary_writer = tf.summary.FileWriter(conf.summary_path, graph=sess.graph)
 
         if os.path.exists(conf.ckpt_file):
             saver.restore(sess, conf.ckpt_file)
             print "Model Restored"
-       
+
+        print "Actually Training"
         for i in xrange(conf.epochs):
             start = time.time()
             for j in xrange(conf.num_batches):
+                print "Getting a Batch"
                 inputs, labels, batch_idx = get_batch(x_batches, y_batches, batch_idx)
                 _, l = sess.run([model.optimizer, model.loss], feed_dict={model.X:inputs, model.y:labels})
+                saver.save(sess, conf.ckpt_file)
             end = time.time()
             print "Epoch: %.2f, Time: %.2f,  Loss: %.2f"%(i, end-start, l)
 
             if i % 10 == 0:
                 perp = sess.run(model.perplexity, feed_dict={model.X:inputs, model.y:labels})
                 print "Perplexity: %.2f"%perp
-                saver.save(sess, conf.ckpt_file)
+                
    
             summaries = sess.run(model.merged_summary_op, feed_dict={model.X:inputs, model.y:labels})
             summary_writer.add_summary(summaries, i)

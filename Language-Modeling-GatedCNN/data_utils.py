@@ -30,15 +30,17 @@ def index_words(words, conf):
 
 def create_batches(data, conf):
     conf.num_batches = int(len(data) / (conf.batch_size * conf.context_size))
+    print "NUM BATCHES: ", conf.num_batches
     data = data[:conf.num_batches * conf.batch_size * conf.context_size]
     xdata = data
     ydata = np.copy(data)
 
     ydata[:-1] = xdata[1:]
     ydata[-1] = xdata[0]
+    #puts batches into 2d array
     x_batches = np.split(xdata.reshape(conf.batch_size, -1), conf.num_batches, 1)
     y_batches = np.split(ydata.reshape(conf.batch_size, -1), conf.num_batches, 1)
-
+    #puts batches into 1d array where each index is a sentence
     for i in xrange(conf.num_batches):
         x_batches[i] = x_batches[i][:,:-1]
         y_batches[i] = y_batches[i][:,:-1]

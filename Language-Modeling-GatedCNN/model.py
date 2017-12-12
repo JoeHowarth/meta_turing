@@ -14,6 +14,7 @@ class GatedCNN(object):
 
         for i in range(conf.num_layers):
             fanin_depth = h.get_shape()[-1]
+            #last layer should have filter size of 1
             filter_size = conf.filter_size if i < conf.num_layers-1 else 1
             shape = (conf.filter_h, conf.filter_w, fanin_depth, filter_size)
             
@@ -31,7 +32,7 @@ class GatedCNN(object):
         softmax_w = tf.get_variable("softmax_w", [conf.vocab_size, conf.embedding_size], tf.float32, 
                                     tf.random_normal_initializer(0.0, 0.1))
         softmax_b = tf.get_variable("softmax_b", [conf.vocab_size], tf.float32, tf.constant_initializer(1.0))
-
+        #PROBLEM
         #Preferance: NCE Loss, heirarchial softmax, adaptive softmax
         self.loss = tf.reduce_mean(tf.nn.nce_loss(softmax_w, softmax_b, h, self.y, conf.num_sampled, conf.vocab_size))
 
@@ -44,8 +45,9 @@ class GatedCNN(object):
         self.create_summaries()
 
     def create_embeddings(self, X, conf):
-
+        #No getters in pytorch
         embeddings = tf.get_variable("embeds",(conf.vocab_size, conf.embedding_size), tf.float32, tf.random_uniform_initializer(-1.0,1.0))
+        #embeddings for words sentences in particular batch
         embed = tf.nn.embedding_lookup(embeddings, X)
         mask_layer = np.ones((conf.batch_size, conf.context_size-1, conf.embedding_size))
         mask_layer[:,0:conf.filter_h/2,:] = 0
@@ -65,3 +67,37 @@ class GatedCNN(object):
         tf.summary.scalar("loss", self.loss)
         tf.summary.scalar("perplexity", self.perplexity)
         self.merged_summary_op = tf.summary.merge_all()
+
+'''
+variables_dict = {
+    "conv1_weights": tf.Variable(tf.random_normal([5, 5, 32, 32]),
+        name="conv1_weights")
+    "conv1_biases": tf.Variable(tf.zeros([32]), name="conv1_biases")
+    ... etc. ...
+}
+
+def my_image_filter(input_images, variables_dict):
+    conv1 = tf.nn.conv2d(input_images, variables_dict["conv1_weights"],
+        strides=[1, 1, 1, 1], padding='SAME')
+    relu1 = tf.nn.relu(conv1 + variables_dict["conv1_biases"])
+
+    conv2 = tf.nn.conv2d(relu1, variables_dict["conv2_weights"],
+        strides=[1, 1, 1, 1], padding='SAME')
+    return tf.nn.relu(conv2 + variables_dict["conv2_biases"])
+
+# The 2 calls to my_image_filter() now use the same variables
+result1 = my_image_filter(image1, variables_dict)
+result2 = my_image_filter(image2, variables_dict)
+
+
+def conv_relu(input, kernel_shape, bias_shape):
+    # Create variable named "weights".
+    weights = tf.get_variable("weights", kernel_shape,
+        initializer=tf.random_normal_initializer())
+    # Create variable named "biases".
+    biases = tf.get_variable("biases", bias_shape,
+        initializer=tf.constant_initializer(0.0))
+    conv = tf.nn.conv2d(input, weights,
+        strides=[1, 1, 1, 1], padding='SAME')
+    return tf.nn.relu(conv + biases)
+'''

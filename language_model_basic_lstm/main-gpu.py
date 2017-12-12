@@ -21,7 +21,7 @@ learning_rate = 0.002
 # Load Penn Treebank Dataset
 train_path = './data/train.txt'
 # Load Google BilWords Dataset - run preprocess.py first
-train_path = './newtraining.txt'
+# train_path = './newtraining.txt'
 
 sample_path = './sample.txt'
 corpus = Corpus()
